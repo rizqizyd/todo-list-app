@@ -7,7 +7,6 @@ Clone it using: git clone git@github.com:rizqizyd/todo-list-app.git
 
 2. Install Project Dependencies
 Once inside the project directory, install the required dependencies using: npm install
-This command will read the package.json file and install all the dependencies listed there.
 
 3. Start the Development Server
 To run the project, start the development server: npm start
